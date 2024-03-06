@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//kak izin sekalian buat tugas kelas teori :)
 
 void main() {
   runApp(MenuApp());
